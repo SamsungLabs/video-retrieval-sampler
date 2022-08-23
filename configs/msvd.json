@@ -1,0 +1,12 @@
+{
+    "train_annot": "annots/msvd/train.json",
+    "val_annot": "annots/msvd/val.json",
+    "test_annot": "annots/msvd/test.json",
+    "frames_dir": "/raid/msvd/frames",
+    "concat_captions": "indep-one",
+    "max_txt_len": 32,
+    "num_frm": 16,
+    "train_batch_size": 32,
+    "val_batch_size": 1,
+    "multi_cap_eval": 1
+  }
